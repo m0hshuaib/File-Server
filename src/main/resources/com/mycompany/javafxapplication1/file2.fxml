@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="900.0" prefWidth="1250.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.mycompany.javafxapplication1.FileController">
+   <children>
+      <TableView fx:id="dataTableView" layoutX="238.0" layoutY="205.0" prefHeight="490.0" prefWidth="775.0" />
+      <Button fx:id="downloadBtn" layoutX="752.0" layoutY="707.0" mnemonicParsing="false" onAction="#downloadButtonHandler" text="Download file" />
+      <Button fx:id="selectCloudBtn2" layoutX="867.0" layoutY="174.0" mnemonicParsing="false" onAction="#selectCloudBtnHandler" text="Choose Cloud File" />
+      <TextField fx:id="cloudinput2" layoutX="484.0" layoutY="174.0" prefHeight="24.0" prefWidth="366.0" promptText="Enter Cloud file name" />
+      <Button fx:id="deletebtn" layoutX="888.0" layoutY="707.0" mnemonicParsing="false" onAction="#DeleteBtnHandler" prefHeight="24.0" prefWidth="125.0" text="DELETE" textFill="#fc0c0c" />
+      <Button fx:id="backButton2" layoutX="9.0" layoutY="14.0" mnemonicParsing="false" onAction="#Backbuttonahndler2" text="Back to files" />
+      <CheckBox fx:id="myCheckBox" layoutX="635.0" layoutY="746.0" mnemonicParsing="false" onAction="#handleCheckBoxAction" text="Read Only" />
+      <Button fx:id="shareButton" layoutX="635.0" layoutY="707.0" mnemonicParsing="false" onAction="#ShareFileHandler" prefHeight="24.0" prefWidth="92.0" text="Share FIle" />
+      <Label layoutX="64.0" layoutY="227.0" />
+      <TextField fx:id="receiverinput" layoutX="455.0" layoutY="707.0" promptText="Username of Reciever" />
+      <Label layoutX="242.0" layoutY="178.0" text="Enter Cloud File Name and Choose" />
+      <Label layoutX="242.0" layoutY="711.0" text="Enter reciever name and Share" />
+   </children>
+</AnchorPane>

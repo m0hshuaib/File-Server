@@ -1,0 +1,252 @@
+commit a5390ed8d220b804a84d69c95b21d8784d92f1c7
+Author: ntu-user <ntu-user@ntu.ac.uk>
+Date:   Fri Feb 9 10:05:12 2024 +0000
+
+    Terminal fixed
+
+commit 503cedfb97ae59ac91a4a2f9394a2146546ff2cc
+Merge: 4b28146 aabdc43
+Author: ntu-user <ntu-user@ntu.ac.uk>
+Date:   Fri Feb 9 09:44:25 2024 +0000
+
+    Merge origin/final1 into final1
+
+commit 4b28146cad858e0399aa8ff28802a93a403d62a3
+Author: ntu-user <ntu-user@ntu.ac.uk>
+Date:   Fri Feb 9 09:43:07 2024 +0000
+
+    Terminal fixed
+
+commit aabdc4395943e947e14e2bc142089729ae872fde
+Author: ntu-user <ntu-user@ntu.ac.uk>
+Date:   Fri Feb 9 00:58:06 2024 +0000
+
+     worked on gui
+
+commit 420a0fa7426d2306fefeb442eb67a393345c1223
+Author: N1144857 <ayaan.shaikh2022@my.ntu.ac.uk>
+Date:   Fri Feb 9 00:29:43 2024 +0000
+
+    Create README.md
+
+commit 6f1afd987303985fb8ceb470e2b357b1c0fb61f9
+Author: ntu-user <ntu-user@ntu.ac.uk>
+Date:   Fri Feb 9 00:21:23 2024 +0000
+
+    db update, filecontroller update, fixed some bugs, worked on gui
+
+commit 543124711c154268fb061aa4ceaf927234fe88b1
+Author: ntu-user <ntu-user@ntu.ac.uk>
+Date:   Wed Feb 7 21:15:03 2024 +0000
+
+    db update, filecontroller update, fixed some bugs, worked on gui
+
+commit 9b3330df20930b74e4951a71324a021b9c9a3a7d
+Author: ntu-user <ntu-user@ntu.ac.uk>
+Date:   Tue Feb 6 21:04:59 2024 +0000
+
+    db update
+
+commit 0d38182bc792b01227a12d51547957a0783ce0bd
+Author: ntu-user <ntu-user@ntu.ac.uk>
+Date:   Tue Feb 6 21:01:53 2024 +0000
+
+    db update
+
+commit c6818edb8ad1749c90175929ed6ad56e65501142
+Author: ntu-user <ntu-user@ntu.ac.uk>
+Date:   Tue Feb 6 20:55:52 2024 +0000
+
+    delete functionality done
+
+commit 6d7faf52ec2d981f74a5f417255bfe929ea29a4a
+Author: ntu-user <ntu-user@ntu.ac.uk>
+Date:   Tue Feb 6 20:48:56 2024 +0000
+
+    Update functionality done
+
+commit b5d91fb0e1a20957aca6ba27b74257b5a17597cf
+Author: ntu-user <ntu-user@ntu.ac.uk>
+Date:   Tue Feb 6 20:25:23 2024 +0000
+
+    Dependencies updated
+
+commit 327d5a07e8bc1e15e0ca8e72da5cdaa1a2a611d8
+Author: ntu-user <ntu-user@ntu.ac.uk>
+Date:   Fri Feb 2 16:54:32 2024 +0000
+
+    File Chunking implemented
+
+commit 80c2bbb592fd87099c7b4b55eaf4bd0caa74ddd1
+Author: ntu-user <ntu-user@ntu.ac.uk>
+Date:   Fri Feb 2 15:22:30 2024 +0000
+
+    Download file working
+
+commit 8abb7bd0b1c1dffc203685ad311f476cbe8fd4b2
+Author: ntu-user <ntu-user@938f7d7f3973>
+Date:   Fri Feb 2 11:00:15 2024 +0000
+
+    Working
+
+commit 42659895b31aefb8edcabcf5a8987ea074cac0aa
+Author: ntu-user <ntu-user@938f7d7f3973>
+Date:   Sat Jan 27 21:56:01 2024 +0000
+
+    Update Password Working!!
+
+commit 4c5751199aa39dbaf7296709b62f19b6883ab80d
+Author: ntu-user <ntu-user@938f7d7f3973>
+Date:   Thu Jan 25 19:01:45 2024 +0000
+
+    Nano command working
+
+commit 9e4bee606748d28217ed173d49e27a0d1cea0817
+Author: ntu-user <ntu-user@938f7d7f3973>
+Date:   Thu Jan 25 17:55:27 2024 +0000
+
+    Upload File working
+
+commit a0189e34148a58a1fd73faf58e7aec74e11086ff
+Author: ntu-user <ntu-user@938f7d7f3973>
+Date:   Thu Jan 25 16:30:44 2024 +0000
+
+    Upload File added
+
+commit 5ecab675887cb46fb8d53c8b7decc2f8b0184e9f
+Author: ntu-user <ntu-user@938f7d7f3973>
+Date:   Thu Jan 25 16:27:03 2024 +0000
+
+    Upload File added
+
+commit c8134c836a973ab75fc258a4810dda18b861c73a
+Author: ntu-user <ntu-user@ntu.ac.uk>
+Date:   Thu Jan 25 14:26:20 2024 +0000
+
+    minor edit
+
+commit 304dbfe55cb2f0c58ef89d8528ce3c77a3716b14
+Author: ntu-user <ntu-user@ntu.ac.uk>
+Date:   Thu Jan 25 13:36:13 2024 +0000
+
+    fixed delete user
+
+commit fbe8cae439f7866b0815ef34fac9ec3e1e9a5437
+Author: ntu-user <ntu-user@cc0f253a31ee>
+Date:   Tue Jan 23 21:52:17 2024 +0000
+
+    Delete User and Update Password Partly Working
+
+commit 6641f9aa22d380e8554a2e97c150273dce0aed34
+Author: ntu-user <ntu-user@cc0f253a31ee>
+Date:   Mon Jan 22 13:10:04 2024 +0000
+
+    Comments added
+
+commit 613c13de18440e2f1eaaf3ae874dce1ee8474c77
+Author: ntu-user <ntu-user@cc0f253a31ee>
+Date:   Fri Jan 19 10:49:43 2024 +0000
+
+    UpdatePassword and DeleteUser Button is Working
+
+commit fa75c607b3d584682bbfc385408e95a1480e3685
+Author: ntu-user <ntu-user@6bdd3b76369a>
+Date:   Thu Jan 18 10:40:53 2024 +0000
+
+    Delete File is Working
+
+commit 8ce0743ae124e5dc915afbb27b71ad656221ef90
+Author: ntu-user <ntu-user@6b037b27d6ff>
+Date:   Tue Jan 16 13:20:14 2024 +0000
+
+    Fixed file management
+
+commit b5aee766520d05a622f110242301a1c874be1e04
+Author: ntu-user <ntu-user@6b037b27d6ff>
+Date:   Mon Jan 15 10:03:55 2024 +0000
+
+    Terminal Commands working
+
+commit 62e90f0c5148804e3e80e07f92f5bd0ce627df13
+Author: ntu-user <ntu-user@58f7ae3ae5fd>
+Date:   Mon Dec 18 15:59:16 2023 +0000
+
+    new
+
+commit 909abb7bd7364f1ae9cd1f78a457c6c1d9aca4b8
+Author: ntu-user <ntu-user@58f7ae3ae5fd>
+Date:   Mon Dec 18 15:57:39 2023 +0000
+
+    new
+
+commit afbefc2a4bc3b0db27c5fe5b31f870ca2a3a081e
+Author: ntu-user <ntu-user@8721e5d5360e>
+Date:   Wed Dec 13 20:29:45 2023 +0000
+
+    Server works better
+
+commit a00de97ac09a036bc636d4d7b37781cf46bcf77c
+Author: ntu-user <ntu-user@8721e5d5360e>
+Date:   Wed Dec 13 13:28:19 2023 +0000
+
+    Server works better
+
+commit 0bdf9f9386bde49114be39d63fda586b948783eb
+Author: ntu-user <ntu-user@8721e5d5360e>
+Date:   Wed Dec 13 12:39:36 2023 +0000
+
+    Server.java
+
+commit 45bb59492663aa68650cb3ec827a3984a85b0acb
+Author: ntu-user <ntu-user@d3fdc6be3ed8>
+Date:   Tue Dec 12 14:46:47 2023 +0000
+
+    terminalController works
+
+commit c5e13dddd6a1b59927e56e2922cfadbc41757280
+Author: ntu-user <ntu-user@d3fdc6be3ed8>
+Date:   Tue Dec 12 11:34:13 2023 +0000
+
+    terminalController
+
+commit 7c19ba837b57c81b68fe11c643a91396006e1aa3
+Author: ntu-user <ntu-user@d3fdc6be3ed8>
+Date:   Mon Dec 11 20:53:02 2023 +0000
+
+    terminalController
+
+commit 0ea5a9cbab64e415f6040537a092368fd4ae4ff2
+Author: N1144857 <ayaan.shaikh2022@my.ntu.ac.uk>
+Date:   Mon Dec 4 15:13:35 2023 +0000
+
+    Add files via upload
+
+commit 5726ae05be6567b09bc8ed9f88dfd3a874c8cec3
+Author: N1144857 <ayaan.shaikh2022@my.ntu.ac.uk>
+Date:   Mon Dec 4 15:13:05 2023 +0000
+
+    Delete README.md
+
+commit 4a26bf36674383558351fc17b835c54f62c030b8
+Author: N1144857 <ayaan.shaikh2022@my.ntu.ac.uk>
+Date:   Mon Dec 4 15:10:03 2023 +0000
+
+    Add files via upload
+
+commit 23f716a6ad8f9aa30eca276b288d9ed12b290fe4
+Author: N1144857 <ayaan.shaikh2022@my.ntu.ac.uk>
+Date:   Mon Dec 4 15:09:20 2023 +0000
+
+    Delete cwk.zip
+
+commit 94a9eb4bb84fda97db96e0b9ba897111cc08155d
+Author: N1144857 <ayaan.shaikh2022@my.ntu.ac.uk>
+Date:   Mon Dec 4 15:07:06 2023 +0000
+
+    Add files via upload
+
+commit d80394a4e28b9f088946dcba213d85d8dcd524f9
+Author: N1144857 <ayaan.shaikh2022@my.ntu.ac.uk>
+Date:   Mon Dec 4 15:03:32 2023 +0000
+
+    Initial commit

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="900.0" prefWidth="1250.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.mycompany.javafxapplication1.FileController">
+   <children>
+      <Button fx:id="uploadBtn" layoutX="846.0" layoutY="780.0" mnemonicParsing="false" onAction="#uploadButtonHandler" prefHeight="24.0" prefWidth="159.0" text="Upload File" />
+      <TextField fx:id="fileNameinput" layoutX="308.0" layoutY="234.0" prefHeight="24.0" prefWidth="252.0" promptText="Enter file name" />
+      <Button fx:id="createbtn" layoutX="67.0" layoutY="234.0" mnemonicParsing="false" onAction="#createButtonHandler" prefHeight="24.0" prefWidth="223.0" text="Create File" />
+      <Button fx:id="updatebtn" layoutX="691.0" layoutY="780.0" mnemonicParsing="false" onAction="#UpdateButtonHandler" prefHeight="24.0" prefWidth="131.0" text="Update File" />
+      <Button fx:id="selectBtn" layoutX="560.0" layoutY="122.0" mnemonicParsing="false" onAction="#selectBtnHandler" text="Choose Local File" />
+      <TextArea fx:id="output" layoutX="692.0" layoutY="234.0" prefHeight="537.0" prefWidth="503.0" />
+      <Button fx:id="selectCloudBtn" layoutX="67.0" layoutY="780.0" mnemonicParsing="false" onAction="#selectCloudBtnHandlerlocal" prefHeight="24.0" prefWidth="223.0" text="Choose Cloud File" />
+      <TextField fx:id="cloudinput" layoutX="299.0" layoutY="780.0" prefHeight="24.0" prefWidth="260.0" promptText="Enter Cloud file name" />
+      <TableView fx:id="dataTableView" layoutX="67.0" layoutY="265.0" prefHeight="504.0" prefWidth="493.0" />
+      <Button fx:id="file2btn" layoutX="1031.0" layoutY="14.0" mnemonicParsing="false" onAction="#switchToFile2" text="Delete | Share | Download" />
+      <Button fx:id="backButton" layoutX="14.0" layoutY="14.0" mnemonicParsing="false" onAction="#Backbuttonahndler" text="Go Home" />
+      <Button fx:id="readbtn" layoutX="1031.0" layoutY="780.0" mnemonicParsing="false" onAction="#readFileButtonHandler" prefHeight="24.0" prefWidth="159.0" text="Read File" />
+   </children>
+</AnchorPane>
